@@ -28,6 +28,7 @@
 ---
 
 ### 🐍 Fun Commit Animation
-![snake gif](https://github.com/Mishalzahra/Mishalzahra/blob/output/github-contribution-grid-snake.svg)
+![snake gif]([https://github.com/Mishalzahra/Mishalzahra/blob/output/github-contribution-grid-snake.svg](https://streak-stats.demolab.com?user=Mishalzahra28
+))
 
 ---
