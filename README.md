@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 #### Frontend
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -27,19 +27,8 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
+## GitHub Activity
 
-### 🔹 Overall Stats
-![Mishalzahra28's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mishalzahra28&show_icons=true&count_private=true&include_all_commits=true)
-
----
-
-### 🔹 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Mishalzahra28)
-
----
-
-### 🔹 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mishalzahra28&theme=github)
 
 
