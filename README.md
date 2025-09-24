@@ -27,8 +27,20 @@
 
 ---
 
-### 🐍 Fun Commit Animation
-![snake gif]([https://github.com/Mishalzahra/Mishalzahra/blob/output/github-contribution-grid-snake.svg](https://streak-stats.demolab.com?user=Mishalzahra28
-))
+## 📊 GitHub Stats & Activity
+
+### 🔹 Overall Stats
+![Mishalzahra28's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mishalzahra28&show_icons=true&count_private=true&include_all_commits=true)
+
+---
+
+### 🔹 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Mishalzahra28)
+
+---
+
+### 🔹 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mishalzahra28&theme=github)
+
 
 ---
