@@ -1,28 +1,29 @@
-# Hi there, I'm Mishal 👋
+# Hi there 👋 I'm Mishal Zahra  
 
-💻 I’m a software engineer who enjoys building modern web apps with **Next.js**, **TypeScript**, and **Tailwind CSS**.  
-⚡ Passionate about clean code, performance, and sleek UIs.
+💻 I’m a developer working mainly with **Next.js, TypeScript, and Tailwind CSS**.  
+⚡ Passionate about building clean UIs and modern web apps.  
+🌱 Always exploring better ways to write maintainable frontends.  
 
 ---
 
 ### 🚀 Tech Stack
-- **Frontend:** Next.js · React · TypeScript · Tailwind CSS  
-- **Backend & Tools:** Supabase · Node.js · REST APIs  
-- **Other:** Git · pnpm · Vercel  
+- **Frontend:** Next.js · React · Tailwind CSS  
+- **Languages:** TypeScript · JavaScript  
+- **Tools:** Git · VS Code · pnpm  
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity
+![Mishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mishalzahra&show_icons=true&theme=tokyonight)
 
-#### 🔥 Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mishalzahra&theme=radical)](https://git.io/streak-stats)
+---
 
-#### 📈 Commit History Graph  
-[![Mishal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mishalzahra&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### 🐍 Snake Eating My Contributions
+![snake gif](https://github.com/Mishalzahra/Mishalzahra/blob/output/github-contribution-grid-snake.svg)
 
-#### 📊 Overall Stats  
-![Mishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=mishalzahra&show_icons=true&theme=radical)
+---
 
-#### 🌐 Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mishalzahra&layout=compact&theme=radical)
+### 📈 Metrics (commits, PRs, issues, stars, etc.)
+![Metrics](https://github.com/Mishalzahra/Mishalzahra/blob/main/github-metrics.svg)
 
+---
